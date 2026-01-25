@@ -39,7 +39,6 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 [![CSS3](https://img.shields.io/badge/css-264ee4.svg?style=for-the-badge&logo=css&logoColor=white)](https://www.w3schools.com/css/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-232730?style=for-the-badge&logo=tailwind-css&logoColor=56c6e2)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-702cf5?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 
 ---
 
