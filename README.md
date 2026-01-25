@@ -49,8 +49,6 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 <div align="left">
 <h3> ⚙️ Backend Technologies: </h3>
 
-[![Laravel](https://img.shields.io/badge/laravel-f63003?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/php-4f5c93?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-3776aa?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![REST](https://img.shields.io/badge/rest_api-909fb4?style=for-the-badge&/)](https://restfulapi.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-cad1db?style=for-the-badge&logo=mysql&logoColor=white/)](https://restfulapi.net/)
@@ -65,8 +63,7 @@ I aim to contribute to meaningful projects while continuing to grow in a fast-pa
 
 [![Git](https://img.shields.io/badge/git-f44e34.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/about)
 [![GitHub](https://img.shields.io/badge/github-242426?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Bruno](https://img.shields.io/badge/Bruno-242426?style=for-the-badge&logo=bruno&logoColor=f6a953)](https://docs.usebruno.com/)
+
 
 ---
 
